@@ -16,13 +16,7 @@
         "username": "John",
         "password": "8d1229c1f6e7737185bb963892fe261548fea7d988637f3724fa62ece3b42631",
         "imageUrl": "/data/profile_pictures/3C.jpg"
-    },
-    {
-        "userId": 4,
-        "username": "window",
-        "password": "29e5f89d9f6721912dc62c15566e60b83c029af8506f92777888ebe1e1a3e92f",
-        "imageUrl": "/data/profile_pictures/4C.jpg"
-    },
+    }
     {
         "userId": 5,
         "username": "Anonimus",
