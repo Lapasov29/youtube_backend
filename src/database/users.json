@@ -1,0 +1,38 @@
+[
+    {
+        "userId": 1,
+        "username": "anvarbek",
+        "password": "25545f62bc84feb1a090188bbdca67e7a12d2e894ead851d2c30763d6d1d752b",
+        "imageUrl": "/data/profile_pictures/1challenge.png"
+    },
+    {
+        "userId": 2,
+        "username": "sherzod",
+        "password": "77b2d72a7f1eb504d666ab46c767ac60752b3d77a85449526cab471c60f60155",
+        "imageUrl": "/data/profile_pictures/242145ce95f49250e00448d66eeb2e9ca.jpg"
+    },
+    {
+        "userId": 3,
+        "username": "John",
+        "password": "8d1229c1f6e7737185bb963892fe261548fea7d988637f3724fa62ece3b42631",
+        "imageUrl": "/data/profile_pictures/3C.jpg"
+    },
+    {
+        "userId": 4,
+        "username": "window",
+        "password": "29e5f89d9f6721912dc62c15566e60b83c029af8506f92777888ebe1e1a3e92f",
+        "imageUrl": "/data/profile_pictures/4C.jpg"
+    },
+    {
+        "userId": 5,
+        "username": "Anonimus",
+        "password": "45ac446ab461fcaa8e35eb4aefdb6c18c9a0bce54c2a837b29ce20fb58acb853",
+        "imageUrl": "/data/profile_pictures/5photo_2021-12-22_08-46-09.jpg"
+    },
+    {
+        "userId": 6,
+        "username": "developer",
+        "password": "8d8cf28fe0753e1addb954ad8c140de319145d48a4f181d22f9bde7a914e8321",
+        "imageUrl": "/data/profile_pictures/6myblog'slogo.jpg"
+    }
+]
