@@ -12,7 +12,7 @@ app.use('/data/profile_pictures/', express.static(path.join(__dirname, 'profile_
 app.use('/data/videos/', express.static(path.join(__dirname, 'videos')) )
 
 app.use(fileUpload())
-app.use(cors( {origin: 'http://192.168.1.253:3000'} ))
+app.use(cors( {origin: 'https://youtube-client-server.herokuapp.com/'} ))
 
 // loading middlewares
 const modelMiddleware = require('./middlewares/model.js')
